@@ -268,3 +268,5 @@ Regardless of experience, the next steps show you how to add one.
     **Hint** The `uses` key accepts repository relative paths.
 
 4. After the code scanning action has completed, are there new security results?
+
+💡 Looks like we've made it to the end! [Click here for additional references.](additional-references.md) 💡

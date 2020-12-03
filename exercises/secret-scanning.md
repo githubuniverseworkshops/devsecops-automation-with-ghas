@@ -73,3 +73,6 @@ Access to other members and teams can be given in the `Security & analysis` sett
 
 1. To enable this functionality, we have to enable Dependabot alerts.
 2. In the access to alerts section, add another team member or team to provide access to your repository alerts.
+
+
+💡 **Now that we're familiar with secret scanning, let's head over to the Dependabot section and learn more about it! [Click here](dependabot.md)** 💡

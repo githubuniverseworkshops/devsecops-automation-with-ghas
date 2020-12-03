@@ -104,3 +104,5 @@ updates:
       prefix: "pip"
 ```
 </details>
+
+💡 Now that we're familiar with Dependabot, let's head over to the code scanning section and learn more about it! [Click here](code-scanning.md) 💡
