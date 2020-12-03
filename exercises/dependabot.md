@@ -4,7 +4,7 @@
 
 - [Enabling Dependabot alerts](#enabling-dependabot-alerts)
 - [Reviewing the dependency graph](#reviewing-the-dependency-graph)
-- [Viewing and managing results](#viewing-and-managing-results-1)
+- [Viewing and managing results](#viewing-and-managing-results)
 - [Enabling Dependabot security updates](#enabling-dependabot-security-updates)
 - [Configuring Dependabot security updates](#configuring-dependabot-security-updates)
 
