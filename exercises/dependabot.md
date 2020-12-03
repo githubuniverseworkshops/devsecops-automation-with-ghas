@@ -81,7 +81,7 @@ How would you know if the configuration cannot be satisfied?
 
 2. Trigger a new dependabot security update by adding a vulnerable dependency to one of the projects
    For example, we can add the dependency `django-two-factor-auth==1.11` to `auth-service/requirements.txt`
-   
+
 3. Look at the created PR to determine if the configuration has been satisfied.
 
 <details>
@@ -105,4 +105,4 @@ updates:
 ```
 </details>
 
-💡 Now that we're familiar with Dependabot, let's head over to the code scanning section and learn more about it! [Click here](code-scanning.md) 💡
+💡**Now that we're familiar with Dependabot, let's head over to the code scanning section, and learn more about it! [Click here](code-scanning.md).** 💡

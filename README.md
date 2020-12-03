@@ -10,7 +10,7 @@
 
 ## :mega: Prerequisites
 
-To participate in the workshop you need a GitHub account and need to be invited to the workshop organization [githubuniverseworkshops](https://github.com/githubuniverseworkshops). If your repository hasn't been automatically created in the the workshop organization, create a new project and push a copy of the `devsecops-automation-with-ghas` project.
+To participate in the workshop you need a GitHub account and need to be invited to the workshop organization [githubuniverseworkshops](https://github.com/githubuniverseworkshops). If your repository hasn't been automatically created in the workshop organization, create a new project and push a copy of the `devsecops-automation-with-ghas` project.
 
 ```bash
 git clone https://github.com/githubuniverseworkshops/devsecops-automation-with-ghas.git

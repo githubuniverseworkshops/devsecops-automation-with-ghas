@@ -269,4 +269,4 @@ Regardless of experience, the next steps show you how to add one.
 
 4. After the code scanning action has completed, are there new security results?
 
-💡 Looks like we've made it to the end! [Click here for additional references.](additional-references.md) 💡
+💡**Looks like we've made it to the end! [Click here for additional references](additional-references.md).** 💡
