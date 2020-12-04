@@ -87,7 +87,7 @@ Follow the next steps to see it in action.
 
 1. Add a vulnerable snippet of code and commit it to a patch branch and create a PR.
 
-    For make the following change in `frontend/src/components/AuthorizationCallback.vue:27`
+    Make the following change in `frontend/src/components/AuthorizationCallback.vue:27`
 
     ```javascript
      - if (this.hasCode && this.hasState) {
