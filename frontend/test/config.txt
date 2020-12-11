@@ -1,0 +1,3 @@
+password=Changeme1
+aws.accessKeyId=AKIAIOWARUV5O6PE6FKD
+aws.secretKey=C+lTMWVF0=Uk1zrN4iWPBQSzs4NRgn0lMfTpFLqw
