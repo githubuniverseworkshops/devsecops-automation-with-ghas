@@ -1,0 +1,15 @@
+version: 2
+updates:
+  -package-ecosystem: "pip"
+  directory: "/auth-service"
+  schedule:
+    interval: "daily"
+  labels:
+    - "triage-required"
+  assignees:
+    - "dcburleigh"
+  reviewers:
+    - "dcburleigh"
+  commit-message:
+    prefix: "pip"
+    
